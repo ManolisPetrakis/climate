@@ -1,5 +1,4 @@
 # Repository Overview
-## Resources for disciplined climate data analysis 
 
 This repository contains materials relevant to the analysis of climate model output datasets, specifically focusing on the investigation of wildfire emissions, aerosols, and trace gases.
 
